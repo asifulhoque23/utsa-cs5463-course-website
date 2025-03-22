@@ -20,13 +20,13 @@ Bibliography of Literature Found: (As of March 16, 2025 – To be updated as lit
 
 🔵	Benjamin, B. V., Gao, P., McQuinn, E., Choudhary, S., Chandrasekaran, A. R., Bussat, J. M., ... & Boahen, K. (2014). Neurogrid: A mixed-analog-digital multichip system for large-scale neural simulations. Proceedings of the IEEE, 102(5), 699-716. https://doi.org/10.1109/JPROC.2014.2313565
 
-🔵	Davies, M., Srinivasa, N., Lin, T. H., Chinya, G., Cao, Y., Choday, S. H., ... & Wang, H. (2018). Loihi: A neuromorphic manycore processor with on-chip learning. Ieee Micro, 38(1), 82-99. https://doi.org/10.1109/MM.2018.112130359
+🔵	Davies, M., Srinivasa, N., Lin, T. H., Chinya, G., Cao, Y., Choday, S. H., ... & Wang, H. (2018). Loihi: A neuromorphic manycore processor with on-chip learning. IEEE Micro, 38(1), 82-99. https://doi.org/10.1109/MM.2018.112130359
 
 🔵	Furber, S. B., Galluppi, F., Temple, S., & Plana, L. A. (2014). The spinnaker project. Proceedings of the IEEE, 102(5), 652-665. https://doi.org/10.1109/JPROC.2014.2304638
 
 🔵	Merolla, P. A., Arthur, J. V., Alvarez-Icaza, R., Cassidy, A. S., Sawada, J., Akopyan, F., ... & Modha, D. S. (2014). A million spiking-neuron integrated circuit with a scalable communication network and interface. Science, 345(6197), 668-673. https://doi.org/10.1126/science.1254642
 
-🔵	Schemmel, J., Brüderle, D., Grübl, A., Hock, M., Meier, K., & Millner, S. (2010, May). A wafer-scale neuromorphic hardware system for large-scale neural modeling. In 2010 ieee international symposium on circuits and systems (iscas) (pp. 1947-1950). IEEE. https://doi.org/10.1109/ISCAS.2010.5536970
+🔵	Schemmel, J., Brüderle, D., Grübl, A., Hock, M., Meier, K., & Millner, S. (2010, May). A wafer-scale neuromorphic hardware system for large-scale neural modeling. In 2010 IEEE international symposium on circuits and systems (iscas) (pp. 1947-1950). IEEE. https://doi.org/10.1109/ISCAS.2010.5536970
 
 🔵	Diehl, P. U., & Cook, M. (2015). Unsupervised learning of digit recognition using spike-timing-dependent plasticity. Frontiers in computational neuroscience, 9, 99. https://doi.org/10.3389/fncom.2015.00099
 
